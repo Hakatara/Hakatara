@@ -1,53 +1,57 @@
-# Joshua Morales
-**Web Developer**
+# Hi there, I'm Josh! 👋
 
-@Hakataraa
+**ERP Project Manager | IT Officer | Developer**
 
----
+📍 *San Pedro, Laguna, Philippines*
 
-I'm a developer with a background in IT, web development, and ERP Systems.
-
----
-
-## 🚀 About Me
-
-- 🎓 **B.S. in Information Technology**
-- 💻 **Web development experience** in React, TypeScript, JavaScript, HTML, and CSS, with back-end integration in Python, SQL, and Firebase
-- 📈 **SEO and data experience**, including creating apps to streamline publishing workflows
+I’m a tech professional who thrives at the intersection of systems administration, hardware support, and full-stack development. Whether I'm managing enterprise resource planning (ERP) systems, developing business tools, or tinkering with hardware, I love building solutions that improve efficiency and solve real-world problems. 
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 About Me
 
-![PHP](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+* 🎓 **B.S. in Information Technology**, *San Pedro College of Business Administration*
+* 💻 **Development Experience:** Building complex integrated systems, including full-scale RFID entry/exit monitoring and financial automation tools (e.g., GateWatch).
+* ⚙️ **Systems & Hardware:** Experienced in enterprise hardware support, systems administration, and deploying local hosted environments.
+* ⚡ **Passions:** Blending business logic with software solutions, home lab server administration, and hands-on electronics.
 
 ---
 
-## 🌱 Currently Exploring
+### 🛠️ Tech Stack & Tools
 
-- Application Development & Data Services
-- Automating workflows with n8n and APIs
-- Building personal projects that blend **tech + business problem solving**
+**Languages & Frameworks**
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Infrastructure & Administration**
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 🌱 Currently Exploring & Hobbies
+
+* 🖥️ **Self-Hosting:** Expanding my home lab server setups using Proxmox and Ubuntu Server.
+* 📊 **Data Science:** Exploring machine learning workflows and hyperparameter optimization.
+* 🏎️ **Off-Screen:** When I'm not coding or managing IT infrastructure, you can find me on the track in sim racing or modding mechanical keyboards.
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourlinkedinprofile)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="150" alt="Languages" />
+</div>
 
 ---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
