@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <i>Building efficient business systems and managing reliable IT infrastructure from San Pedro, Laguna.</i>
+  <i>Building efficient business systems and managing reliable IT infrastructure from the Philippines.</i>
 </p>
 
 ---
