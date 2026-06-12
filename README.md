@@ -63,7 +63,7 @@ Tech isn't just my profession; it's also my hobby. When I'm away from the IDE an
 
 <br>
 
-### 📊 GitHub Stats (Neon Theme)
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hakatara&show_icons=true&theme=synthwave" height="165" alt="GitHub Stats" />
